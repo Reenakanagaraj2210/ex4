@@ -48,7 +48,8 @@ Execute the programs and publish them.
 ```
 ## OUTPUT
 
-![Map](./images/Screenshot 2025-04-22 151400.png)
+
+![Screenshot 2025-04-23 144628](https://github.com/user-attachments/assets/b73605bf-7dcf-4907-9f76-1c741f7e61dc)
 
 
 
